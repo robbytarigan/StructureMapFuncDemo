@@ -1,0 +1,51 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "72b50e5413b6b683260c91b85e2ce6fe667b7905"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "structuremapfuncdemo/1.0.0": {
+        "dependencies": {
+          "StructureMap": "4.5.1",
+          "System.ValueTuple": "4.3.1"
+        },
+        "runtime": {
+          "StructureMapFuncDemo.dll": {}
+        }
+      },
+      "structuremap/4.5.1": {
+        "runtime": {
+          "lib/netstandard1.5/StructureMap.dll": {}
+        }
+      },
+      "system.valuetuple/4.3.1": {
+        "runtime": {
+          "lib/netstandard1.0/System.ValueTuple.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "structuremapfuncdemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "structuremap/4.5.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5h83KuvdkMtDllLfGZdgOPHF5erbF9MOeX2S6mCJOpXYJ9RGiZl0vnrzS+Cs0rs7wLPAWig9ENBPFbjPpUdcXA==",
+      "path": "structuremap/4.5.1",
+      "hashPath": "structuremap.4.5.1.nupkg.sha512"
+    },
+    "system.valuetuple/4.3.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xzDmg26Wb2x2rFDjwziaMYQJqxhrK+b4OUC008o7CnZhUMb2p5XfwgOgAQ/WlKhqxMUSDWRUm5/lNTKdh27pJA==",
+      "path": "system.valuetuple/4.3.1",
+      "hashPath": "system.valuetuple.4.3.1.nupkg.sha512"
+    }
+  }
+}
