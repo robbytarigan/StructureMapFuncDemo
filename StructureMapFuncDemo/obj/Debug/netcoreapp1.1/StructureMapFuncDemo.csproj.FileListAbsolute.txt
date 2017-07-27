@@ -1,7 +1,0 @@
-E:\RobbyData\Explore\StructureMapFuncDemo\StructureMapFuncDemo\bin\Debug\netcoreapp1.1\StructureMapFuncDemo.deps.json
-E:\RobbyData\Explore\StructureMapFuncDemo\StructureMapFuncDemo\bin\Debug\netcoreapp1.1\StructureMapFuncDemo.dll
-E:\RobbyData\Explore\StructureMapFuncDemo\StructureMapFuncDemo\obj\Debug\netcoreapp1.1\StructureMapFuncDemo.csprojResolveAssemblyReference.cache
-E:\RobbyData\Explore\StructureMapFuncDemo\StructureMapFuncDemo\obj\Debug\netcoreapp1.1\StructureMapFuncDemo.AssemblyInfo.cs
-E:\RobbyData\Explore\StructureMapFuncDemo\StructureMapFuncDemo\bin\Debug\netcoreapp1.1\StructureMapFuncDemo.pdb
-E:\RobbyData\Explore\StructureMapFuncDemo\StructureMapFuncDemo\obj\Debug\netcoreapp1.1\StructureMapFuncDemo.dll
-E:\RobbyData\Explore\StructureMapFuncDemo\StructureMapFuncDemo\obj\Debug\netcoreapp1.1\StructureMapFuncDemo.pdb
